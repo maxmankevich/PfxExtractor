@@ -12,6 +12,8 @@
 
 Результат можно сразу скопировать и вставить в панель управления хостингом (Rusonyx - Plesk и другие).
 
+<img width="905" height="982" alt="pfx-extractor" src="https://github.com/user-attachments/assets/a07e27c0-d92b-4328-9547-6b0ffb521bc8" />
+
 
 ## ✨ Возможности
 
